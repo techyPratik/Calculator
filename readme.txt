@@ -1,0 +1,1 @@
+This folder is for your app images, screenshots, or logos.
