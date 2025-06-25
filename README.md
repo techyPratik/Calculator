@@ -14,13 +14,13 @@ Welcome! Here I share powerful tools, premium ISOs, and high-resolution 4K wallp
 - Debloat script  
 - Activator  
 - Startup cleaner  
-📥 [Download ZIP](https://drive.google.com/YOUR-LINK)
+📥 [Download ZIP](https://drive.google.com/drive/folders/1Bjy6n3VQKpgUDJqhlgW8xtz9hS7Ujnvs)
 
 ---
 
 ## 🎨 4K Wallpaper Pack 
 100+ ultra-HD wallpapers, Pinterest-style  
-📥 [Download Sample Pack](https://drive.google.com/YOUR-LINK)
+📥 [Download Sample Pack](https://drive.google.com/drive/folders/1P8LGAfzUcM2vgi3Qoy6syRDF0N5w01Pa)
 
 ---
 
