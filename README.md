@@ -4,9 +4,42 @@ Welcome! Here I share powerful tools, premium ISOs, and high-resolution 4K wallp
 
 ---
 
-## 🖥️ Windows ISO (7,8,10,11)
+## 🖥️ Windows ISO (10,11)
 📁 Original Microsoft ISO – Clean & Fast  
 📥 [Download from Google Drive](https://drive.google.com/drive/folders/1rApHBBrpnH95Zaps730JzYFQaJ_T_6uR)
+
+
+
+# 🪟 Windows 7 Ultimate ISO – Premium Download
+
+✅ Verified Official ISO File  
+🖥️ Architecture: 64-bit  
+📁 File Size: 4.2 GB  
+🔒 Price: ₹49 INR
+
+---
+
+### 🧾 How to Get This File:
+
+1. Pay ₹49 to my UPI ID:  
+   **`pratik142008@fam`**
+
+2. Send your payment screenshot to me:
+
+📱 **WhatsApp**: [Click to Chat](https://wa.me/917977649092)  
+📧 **Email**: pratiktechcreator@gmail.com
+
+3. I’ll reply with your **private Google Drive** download link.
+
+---
+
+## 🔐 Why It’s Paid:
+This ISO is clean, fast, bootable, and personally tested.  
+By buying, you support my work and help me upload more valuable tech tools.
+
+---
+
+💬 _Thank you for trusting TechyPratik – I’ll keep helping tech lovers like you!_
 
 ---
 
