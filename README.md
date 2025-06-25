@@ -10,7 +10,7 @@ Welcome! Here I share powerful tools, premium ISOs, and high-resolution 4K wallp
 
 
 
-# 🪟 Windows 7 Ultimate ISO – Premium Download
+# 🖥️ Windows 7 Ultimate ISO – Premium Download
 
 ✅ Verified Official ISO File  
 🖥️ Architecture: 64-bit  
