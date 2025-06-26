@@ -2,7 +2,7 @@
 
 A lightweight and responsive calculator app built with HTML, CSS, and JavaScript. This calculator supports basic arithmetic operations with a modern design.
 
-[👉 Try it Here](https://yourusername.github.io/calculator-app/) 
+[👉 Try it Here](https://techypratik.github.io/Calculator/) 
 
 ---
 
