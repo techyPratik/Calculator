@@ -14,7 +14,7 @@ Welcome to the official repository for **My Awesome App** – a simple yet power
 
 ## Neon Runner-Interesting Game...
 
-[Click here to try the app](https://your-live-app-link.com)
+[Click here to try the app](https://techypratik.github.io/TechyPratik-Hub/)
 
 ---
 
