@@ -10,7 +10,7 @@ Welcome to the official repository for **My Awesome App** – a simple yet power
 
 ## Age Calculator-Super Accurate !
 
-[Click here to try the app](https://your-live-app-link.com)
+[Click here to try the app](https://techypratik.github.io/TechyPratik-Hub/)
 
 ## Neon Runner-Interesting Game...
 
